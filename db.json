@@ -1,14 +1,11 @@
 {
-  "Usuarios": [
-    {,
-      "usuario": "Jota",
-      "senha": "123456",
-      "tarefas": [
-        "",
-        "",
-        "",
-        "",
-      ]
-    },
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
