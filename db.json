@@ -1,1 +1,8 @@
-
+{
+  "Usuarios": [
+    {,
+      "usuario": "Jota",
+      "senha": "123456",
+      "tarefas": "Estudar",
+    },
+  ],
