@@ -1,0 +1,236 @@
+{
+  "usuarios": [
+    {
+      "id": 1716161234279,
+      "usuario": "admin",
+      "senha": "123456"
+    },
+    {
+      "id": 1716161234278,
+      "usuario": "admin2",
+      "senha": "1234"
+    },
+    {
+      "id": 1718212495452,
+      "usuario": "jota",
+      "senha": "1234"
+    },
+    {
+      "id": 1718212901437,
+      "usuario": "jota1",
+      "senha": "1234"
+    },
+    {
+      "id": 1718212938560,
+      "usuario": "jota2",
+      "senha": "1234"
+    },
+    {
+      "id": 1718840667292,
+      "usuario": "lice",
+      "senha": "112935"
+    },
+    {
+      "id": 1718845824008,
+      "usuario": "mameyzinha",
+      "senha": "024054118"
+    },
+    {
+      "id": 1718845876614,
+      "usuario": "wonwx",
+      "senha": "2801"
+    },
+    {
+      "id": 1718845951304,
+      "usuario": "willzin da massa",
+      "senha": "iuiuiu"
+    }
+  ],
+  "health": [],
+  "lobbies": [
+    {
+      "id": "1718368894622",
+      "leaderId": "admin",
+      "lobbyName": "Lobby de admin",
+      "playerSlots": [
+        "admin",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "partida": [],
+  "PARTIDAS": [
+    {
+      "IDPARTIDA": "123456789",
+      "ADMINID": "admin123",
+      "TERRITORIOS": {
+        "player1": {
+          "ID": "player1",
+          "DONO": "admin123"
+        },
+        "player2": {
+          "ID": "player2",
+          "DONO": ""
+        },
+        "player3": {
+          "ID": "player3",
+          "DONO": ""
+        },
+        "player4": {
+          "ID": "player4",
+          "DONO": ""
+        },
+        "player5": {
+          "ID": "player5",
+          "DONO": ""
+        },
+        "player6": {
+          "ID": "player6",
+          "DONO": ""
+        },
+        "player7": {
+          "ID": "player7",
+          "DONO": ""
+        },
+        "player8": {
+          "ID": "player8",
+          "DONO": ""
+        }
+      },
+      "CARTASOBJETIVO": {
+        "player1": {
+          "ID": "player1",
+          "DONO_DO_OBJETIVO": "admin123",
+          "OBJETIVO": ""
+        },
+        "player2": {
+          "ID": "player2",
+          "DONO_DO_OBJETIVO": "",
+          "OBJETIVO": ""
+        },
+        "player3": {
+          "ID": "player3",
+          "DONO_DO_OBJETIVO": "",
+          "OBJETIVO": ""
+        },
+        "player4": {
+          "ID": "player4",
+          "DONO_DO_OBJETIVO": "",
+          "OBJETIVO": ""
+        },
+        "player5": {
+          "ID": "player5",
+          "DONO_DO_OBJETIVO": "",
+          "OBJETIVO": ""
+        },
+        "player6": {
+          "ID": "player6",
+          "DONO_DO_OBJETIVO": "",
+          "OBJETIVO": ""
+        },
+        "player7": {
+          "ID": "player7",
+          "DONO_DO_OBJETIVO": "",
+          "OBJETIVO": ""
+        },
+        "player8": {
+          "ID": "player8",
+          "DONO_DO_OBJETIVO": "",
+          "OBJETIVO": ""
+        }
+      },
+      "CARTASDETROCA": {
+        "player1": {
+          "ID": "player1",
+          "SLOTS_DE_CARTAS": []
+        },
+        "player2": {
+          "ID": "player2",
+          "SLOTS_DE_CARTAS": []
+        },
+        "player3": {
+          "ID": "player3",
+          "SLOTS_DE_CARTAS": []
+        },
+        "player4": {
+          "ID": "player4",
+          "SLOTS_DE_CARTAS": []
+        },
+        "player5": {
+          "ID": "player5",
+          "SLOTS_DE_CARTAS": []
+        },
+        "player6": {
+          "ID": "player6",
+          "SLOTS_DE_CARTAS": []
+        },
+        "player7": {
+          "ID": "player7",
+          "SLOTS_DE_CARTAS": []
+        },
+        "player8": {
+          "ID": "player8",
+          "SLOTS_DE_CARTAS": []
+        }
+      },
+      "FASEATUAL": 1,
+      "TURNO": "player1",
+      "PLAYERS8": [
+        {
+          "ID": "player1",
+          "COR": "blue",
+          "OBJETIVO": "",
+          "TROPAS": 0
+        },
+        {
+          "ID": "player2",
+          "COR": "red",
+          "OBJETIVO": "",
+          "TROPAS": 0
+        },
+        {
+          "ID": "player3",
+          "COR": "green",
+          "OBJETIVO": "",
+          "TROPAS": 0
+        },
+        {
+          "ID": "player4",
+          "COR": "yellow",
+          "OBJETIVO": "",
+          "TROPAS": 0
+        },
+        {
+          "ID": "player5",
+          "COR": "orange",
+          "OBJETIVO": "",
+          "TROPAS": 0
+        },
+        {
+          "ID": "player6",
+          "COR": "purple",
+          "OBJETIVO": "",
+          "TROPAS": 0
+        },
+        {
+          "ID": "player7",
+          "COR": "pink",
+          "OBJETIVO": "",
+          "TROPAS": 0
+        },
+        {
+          "ID": "player8",
+          "COR": "cyan",
+          "OBJETIVO": "",
+          "TROPAS": 0
+        }
+      ]
+    }
+  ]
+}
