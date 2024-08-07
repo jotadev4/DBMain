@@ -1,11 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "usuario": "Jota",
+  "senha": "123456",
+  "tarefas": [
+    "Estudar",
+    "",
+    "",
+    ""
+  ]
 }
